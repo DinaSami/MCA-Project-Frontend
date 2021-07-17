@@ -7,7 +7,7 @@ import Home from '../slideshow/slideshow';
 import io from 'socket.io-client';
 import Chat from '../chat/chat';
 
-const SERVER_URL = process.env.SERVER_URL || 'localhost:5000/';
+
 
 const socket = io('https://project-mca-back.herokuapp.com', { transports: ['websocket'] });
 
