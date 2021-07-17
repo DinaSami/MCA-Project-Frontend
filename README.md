@@ -9,7 +9,7 @@
 
 * Project Name : MCA Project (medical clinics appointment)
 
-* Project Idea : MCA Project facilates for patient to book an appointment in a medical clinics and provide a feature to contact the doctors directly for urgent cases.
+* Project Idea : MCA Project facilates for patient to book an appointment in a medical clinics and provides a feature to contact the doctors directly for urgent cases.
 ## URLs
 * Heroku applications
 
