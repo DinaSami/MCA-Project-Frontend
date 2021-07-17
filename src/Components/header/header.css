@@ -1,0 +1,37 @@
+
+  body {
+    background-color: lightgray;
+    margin: 0 auto;
+    max-width: 1440px;
+  }
+  header {
+    background: #254288;
+    width: 100%;
+    position: fixed;
+    z-index: 5;
+   box-shadow: -1px 6px 9px #00000047;
+  }
+  
+  header nav ul li {
+    display: inline-block;
+    padding-right: 140px;
+    padding-top: 30px;
+    color: white;
+    
+  }
+  header nav ul li:first-child {
+    font-size: large;
+    font-weight: bolder;
+    letter-spacing: 1px;
+  }
+  header nav ul li a {
+    color: white;
+    text-decoration: none;
+  
+  }
+  #root > header > nav > ul > li:nth-child(1){
+    margin-left: 37px;
+  } 
+
+  
+  
